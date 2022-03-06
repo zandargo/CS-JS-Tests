@@ -1,4 +1,6 @@
 /*
+CodeSignal 05-03-2022
+
 You are given two integer arrays "a" and "b" of the same length.
 Let's define the difference between a and b as the sum of absolute differences of corresponding elements:
 difference = |a[0]-b[0]| + |a[1]-b[1]| + ... + |a[n]-b[n]|

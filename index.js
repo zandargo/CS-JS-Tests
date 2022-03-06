@@ -1,6 +1,6 @@
 // Import stylesheets
 import './style.css';
-import './CodeSignalTests/T2-StringSplit3.js';
+// import './CodeSignalTests/T2-StringSplit3.js';
 // import './CodeSignalTests/T3-MountArray.js';
 // import './CodeSignalTests/T4-MinDiff.js';
 

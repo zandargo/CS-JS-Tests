@@ -1,4 +1,6 @@
 /*
+CodeSignal 05-03-2022
+
 You are given an array of strings "arr". Your task is to construct a string from the words in "arr" starting with the 0th character from each word (in order they appear in arr), followed by the 1st character, the the 2nd character, etc. If one of the words doesn't have an i'th character, skip the word.
 
 Return the resulting string.
